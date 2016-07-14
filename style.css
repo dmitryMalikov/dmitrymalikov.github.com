@@ -575,9 +575,9 @@ ul li {
 	z-index: 1;
 	min-height: 100%;
 	position: absolute!important;
-	top: -15px!important;
+	top: -45px!important;
 	left: -155px!important;
-	bottom: -15px!important;
+	bottom: -45px!important;
 	right: -155px!important;
 	background-size: cover;
 	background-position: right 50%;
